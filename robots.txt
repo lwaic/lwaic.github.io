@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lwaic.csgad.com/KHe/sitemap.xml.gz
